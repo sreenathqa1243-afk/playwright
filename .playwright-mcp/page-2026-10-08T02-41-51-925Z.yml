@@ -1,0 +1,24 @@
+- generic [ref=f2e1]:
+  - generic [ref=f2e3]:
+    - heading [level=1]
+    - generic [ref=f2e6]:
+      - generic [ref=f2e8]:
+        - generic [ref=f2e9]:
+          - generic [ref=f2e10]: User ID
+          - textbox [active] [invalid] [ref=f2e11]: login-validation-test-user
+          - text: Invalid username or password.
+        - generic [ref=f2e12]:
+          - generic [ref=f2e13]: Password
+          - textbox "Password" [invalid] [ref=f2e14]
+        - button "Sign In" [ref=f2e16] [cursor=pointer]
+        - button "Clear Login" [ref=f2e18] [cursor=pointer]
+      - generic [ref=f2e19]:
+        - separator [ref=f2e20]
+        - heading "Or sign in with" [level=4] [ref=f2e21]
+        - list [ref=f2e22]:
+          - link "uat-cacsx-sso" [ref=f2e23] [cursor=pointer]:
+            - /url: /auth/realms/C360/broker/uat-cacsx-sso/login?client_id=c360-gateway-service&tab_id=I6HcJYvIoxA&client_data=eyJydSI6Imh0dHBzOi8vdWF0MS5rYi5taXBjLmNzcy5jZ2lwZGMuY2dpbmV0L2xvZ2luL29hdXRoMi9jb2RlL2tleWNsb2FrIiwicnQiOiJjb2RlIiwic3QiOiJBUThvSW9oRGR6dG5ZMXV2R3ZlRjNJYW0xbUUyTGpZa09VOWdKZmFtSG53PSJ9&session_code=WU4dtTzQ66FyNVWzjovjEEM4ug1lm_6HgMznmGrEvPU
+  - paragraph [ref=f2e26]:
+    - text: CGI Credit Studio CACS®, ACAPS®, Strata® - Copyright © 1985-2026 by CGI Technologies and Solutions Inc., all rights reserved. This program is proprietary and is the property of CGI Technologies and Solutions Inc. Copying or use of this program, except as specifically provided for in a license agreement controlling such use, is prohibited. This program is designated as confidential and is a trade secret under applicable laws. Unauthorized copying or disclosure is prohibited and is subject to criminal and civil penalties, including fines and imprisonment.
+    - link "Open Source Legal Notices" [ref=f2e27] [cursor=pointer]:
+      - /url: /auth/resources/ngr6x/login/cacs-enterprise/legalNotices/CACS_OSS_licensing_main.htm

@@ -1,0 +1,25 @@
+[  164773ms] [ERROR] No persona found in sessionStorage. @ https://uat1.kb.mipc.css.cgipdc.cginet/coll/800.js:0
+[  167615ms] [WARNING] WebSocket connection closed for endpoint: /complaintmgmt/coll-async CloseEvent @ https://uat1.kb.mipc.css.cgipdc.cginet/coll/800.js:0
+[  167620ms] [WARNING] Reconnecting to WebSocket server at /complaintmgmt/coll-async (attempt 1/20) after 30000ms... @ https://uat1.kb.mipc.css.cgipdc.cginet/coll/800.js:0
+[  169281ms] [WARNING] WebSocket connection closed for endpoint: /repossessionmgmt/coll-async CloseEvent @ https://uat1.kb.mipc.css.cgipdc.cginet/coll/800.js:0
+[  169281ms] [WARNING] Reconnecting to WebSocket server at /repossessionmgmt/coll-async (attempt 1/20) after 30000ms... @ https://uat1.kb.mipc.css.cgipdc.cginet/coll/800.js:0
+[  183853ms] [ERROR] No persona found in sessionStorage. @ https://uat1.kb.mipc.css.cgipdc.cginet/task/task-ui/964.js:0
+[  184097ms] [ERROR] ERROR TypeError: this.searchResultData is not iterable
+    at Object.next (https://uat1.kb.mipc.css.cgipdc.cginet/collmgmt/699.js:1:63162)
+    at ue.next (https://uat1.kb.mipc.css.cgipdc.cginet/collmgmt/751.js:1:466407)
+    at Se._next (https://uat1.kb.mipc.css.cgipdc.cginet/collmgmt/751.js:1:466076)
+    at Se.next (https://uat1.kb.mipc.css.cgipdc.cginet/collmgmt/751.js:1:465764)
+    at https://uat1.kb.mipc.css.cgipdc.cginet/collmgmt/751.js:1:476524
+    at g._next (https://uat1.kb.mipc.css.cgipdc.cginet/collmgmt/751.js:1:474384)
+    at g.next (https://uat1.kb.mipc.css.cgipdc.cginet/collmgmt/751.js:1:465764)
+    at https://uat1.kb.mipc.css.cgipdc.cginet/collmgmt/751.js:1:476086
+    at g._next (https://uat1.kb.mipc.css.cgipdc.cginet/collmgmt/751.js:1:474384)
+    at g.next (https://uat1.kb.mipc.css.cgipdc.cginet/collmgmt/751.js:1:465764) @ https://uat1.kb.mipc.css.cgipdc.cginet/collmgmt/751.js:0
+[  197875ms] [WARNING] WebSocket connection closed for endpoint: /complaintmgmt/coll-async CloseEvent @ https://uat1.kb.mipc.css.cgipdc.cginet/coll/800.js:0
+[  197876ms] [WARNING] Reconnecting to WebSocket server at /complaintmgmt/coll-async (attempt 2/20) after 30000ms... @ https://uat1.kb.mipc.css.cgipdc.cginet/coll/800.js:0
+[  199523ms] [WARNING] WebSocket connection closed for endpoint: /repossessionmgmt/coll-async CloseEvent @ https://uat1.kb.mipc.css.cgipdc.cginet/coll/800.js:0
+[  199523ms] [WARNING] Reconnecting to WebSocket server at /repossessionmgmt/coll-async (attempt 2/20) after 30000ms... @ https://uat1.kb.mipc.css.cgipdc.cginet/coll/800.js:0
+[  228160ms] [WARNING] WebSocket connection closed for endpoint: /complaintmgmt/coll-async CloseEvent @ https://uat1.kb.mipc.css.cgipdc.cginet/coll/800.js:0
+[  228161ms] [WARNING] Reconnecting to WebSocket server at /complaintmgmt/coll-async (attempt 3/20) after 30000ms... @ https://uat1.kb.mipc.css.cgipdc.cginet/coll/800.js:0
+[  229758ms] [WARNING] WebSocket connection closed for endpoint: /repossessionmgmt/coll-async CloseEvent @ https://uat1.kb.mipc.css.cgipdc.cginet/coll/800.js:0
+[  229759ms] [WARNING] Reconnecting to WebSocket server at /repossessionmgmt/coll-async (attempt 3/20) after 30000ms... @ https://uat1.kb.mipc.css.cgipdc.cginet/coll/800.js:0

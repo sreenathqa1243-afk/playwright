@@ -1,0 +1,34 @@
+- generic [ref=f2e1]:
+  - main [ref=f2e4]:
+    - heading [level=1] [ref=f2e6]:
+      - img "logo" [ref=f2e7]
+    - generic [ref=f2e10]:
+      - generic [ref=f2e12]:
+        - generic [ref=f2e13]:
+          - heading "Sign In" [level=2] [ref=f2e14]
+          - alert
+          - generic [ref=f2e15]:
+            - generic [ref=f2e16]:
+              - generic [ref=f2e17]: Windows User ID
+              - textbox "Windows User ID" [active] [ref=f2e20]:
+                - /placeholder: ""
+            - generic [ref=f2e24]:
+              - checkbox "Keep me signed in" [ref=f2e25]
+              - generic [ref=f2e26] [cursor=pointer]: Keep me signed in
+        - button "Next" [ref=f2e28]
+      - generic [ref=f2e30]:
+        - link "Unlock account?" [ref=f2e31] [cursor=pointer]:
+          - /url: "#"
+        - link "Help" [ref=f2e32] [cursor=pointer]:
+          - /url: https://loginpreview.keybank.com/help/login
+  - generic [ref=f2e33]:
+    - generic [ref=f2e34]:
+      - paragraph [ref=f2e35]: "If you are unable to login or require additional assistance, please contact:"
+      - paragraph [ref=f2e36]:
+        - text: KeyBank Employee Help Desk at
+        - strong [ref=f2e37]: (216) 813-4357
+        - text: or toll-free at
+        - strong [ref=f2e38]: (800) 967-3333
+    - generic [ref=f2e39]:
+      - strong [ref=f2e41]: Warning
+      - paragraph [ref=f2e42]: The information asset you are attempting to access is the property of KeyCorp. Unauthorized access is prohibited and may result in corrective action up to and including termination and/or civil or criminal prosecution. All activities, including but not limited to, access, transmission, disclosure, utilization, and unacceptable use may be monitored and reported at any time. Any access to this information asset should not be presumed to be private. By accessing this information asset, you agree to comply with any and all related policies and codes of conduct of KeyCorp.
